@@ -1,5 +1,5 @@
 # ignore data folders
 
 data/
-JobDescription/
-Resume/
+venv/
+*.jpg
